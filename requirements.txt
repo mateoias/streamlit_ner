@@ -1,0 +1,7 @@
+streamlit==0.71.0
+Flask==1.1.2
+pandas==1.2.1
+spacy>=3.0.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.0.0/en_core_web_md-3.0.0.tar.gz#egg=en_core_web_md
+# https://github.com/explosion/spacy-models/releases/download/zh_core_web_trf-3.0.0/zh_core_web_trf-3.0.0.tar.gz#egg=zh_core_web_trf
+https://github.com/explosion/spacy-models/releases/download/zh_core_web_sm-3.0.0/zh_core_web_sm-3.0.0.tar.gz#egg=zh_core_web_sm
